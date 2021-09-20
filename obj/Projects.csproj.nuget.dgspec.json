@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mudau\\Desktop\\GraduateProgram\\Projects.csproj": {}
+    "C:\\Users\\mudau\\Desktop\\Derivco\\Projects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mudau\\Desktop\\GraduateProgram\\Projects.csproj": {
+    "C:\\Users\\mudau\\Desktop\\Derivco\\Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mudau\\Desktop\\GraduateProgram\\Projects.csproj",
+        "projectUniqueName": "C:\\Users\\mudau\\Desktop\\Derivco\\Projects.csproj",
         "projectName": "Projects",
-        "projectPath": "C:\\Users\\mudau\\Desktop\\GraduateProgram\\Projects.csproj",
+        "projectPath": "C:\\Users\\mudau\\Desktop\\Derivco\\Projects.csproj",
         "packagesPath": "C:\\Users\\mudau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mudau\\Desktop\\GraduateProgram\\obj\\",
+        "outputPath": "C:\\Users\\mudau\\Desktop\\Derivco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
